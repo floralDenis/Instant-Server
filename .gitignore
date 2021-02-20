@@ -1,0 +1,30 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Instant.Server.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/packages/*
+/.idea/*
+/.vs/*
+
+/Instant.Server.BLL/bin/
+/Instant.Server.BLL/obj/
+/Instant.Server.Communication/bin/Debug/
+/Instant.Server.Communication/obj/Debug/
+/Instant.Server.Data/bin/Debug/
+/Instant.Server.Data/obj/Debug/
+/Instant.Server.Domain/bin/
+/Instant.Server.Domain/obj/
+/Instant.Server.Domain.Implementation/bin/
+/Instant.Server.Domain.Implementation/obj/
+/Instant.Server.Hosting/bin/
+/Instant.Server.Hosting/obj/
