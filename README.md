@@ -3,4 +3,4 @@ Simple chatting server based on WCF service. The project has simple anemic domai
   
 # Data schema: ![alt text](https://github.com/floralDenis/Instant.Server/blob/main/DataSchema.png?raw=true)  
   
-# Class diagram: ![alt text](https://github.com/floralDenis/Instant.Server/blob/main/ClassDiagram.png?raw=true)  
+# Components diagram: ![alt text](https://github.com/floralDenis/Instant.Server/blob/main/ClassDiagram.png?raw=true)  
